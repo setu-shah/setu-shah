@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I graduated in May 2022 with a B.A. in Political Economy from University of California, Berkeley. Currently, I am pursuing a master's degree in Business Analytics at the Questrom School of Business in Boston. 
+
+I am a data analytics enthusiast at heart: I love working with data and eking out actionable insights to deliver value to others through creative visualizations and story-telling. I consider myself a lifelong learner with a passion for working on complex problems to provide meaningful data-driven solutions for stakeholders.
+
 <!--
 **setu-shah/setu-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
