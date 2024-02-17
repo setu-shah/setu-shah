@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently pursuing a Master's degree in Business Analytics at the Questrom School of Business, Boston University. I also have a Bachelor's degree in Political Economy from University of California, Berkeley.
+I am currently pursuing a Master's degree in [Business Analytics](https://www.bu.edu/questrom/degree-programs/ms-business-analytics/) at the Questrom School of Business, Boston University. I also have a Bachelor's degree in [Political Economy](https://politicaleconomy.berkeley.edu/) from University of California, Berkeley.
 
 I am a data analytics enthusiast at heart: I love working with data and eking out actionable insights to deliver value to others through creative visualizations and story-telling. I consider myself a lifelong learner with a passion for working on complex problems to provide meaningful data-driven solutions for stakeholders.
 
